@@ -19,7 +19,8 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/nima70/tailwind-shadcn-storybook-boilerplate.git
-cd storybook-tailwind-shadcn-template
+cd tailwind-shadcn-storybook-boilerplate
+code .
 ```
 
 ## Install Dependencies:
