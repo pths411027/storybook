@@ -18,7 +18,7 @@ Quick Start
 Clone the Repository:
 
 ```bash
-git clone https://github.com/nima70/storybook-tailwind-shadcn-template.git
+git clone https://github.com/nima70/tailwind-shadcn-storybook-boilerplate.git
 cd storybook-tailwind-shadcn-template
 ```
 
